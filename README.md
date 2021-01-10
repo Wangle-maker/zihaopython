@@ -1,4 +1,6 @@
-# 跟子豪兄趣学Python系列课程
+# 转载于子豪Python的学习教程，学习的是jupyter notebook
+
+跟子豪兄趣学Python系列课程
 
 Bilibili视频：[同济子豪兄](https://space.bilibili.com/1900783/#/)     
 
